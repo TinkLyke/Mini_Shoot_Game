@@ -46,6 +46,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\MagicWater\ExampleScenes\Scripts\GameCamera.cs" />
+     <Compile Include="Assets\Script\CursAnim.cs" />
+     <Compile Include="Assets\Script\EnemyScript.cs" />
+     <Compile Include="Assets\Script\GunDamage.cs" />
+     <Compile Include="Assets\Script\GunFire.cs" />
      <Compile Include="Assets\Script\Player_Health.cs" />
      <None Include="Assets\Resources\MagicWater\Shaders\Water8.shader" />
      <None Include="Assets\Resources\MagicWater\Shaders\Water12.shader" />
